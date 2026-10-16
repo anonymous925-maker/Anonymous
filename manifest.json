@@ -1,0 +1,12 @@
+{
+  "background_color": "#eddada",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Your Manager",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Your Manager",
+  "start_url": "/",
+  "theme_color": "#050907",
+  "description": "Personal dashboard and utility manager."
+}
